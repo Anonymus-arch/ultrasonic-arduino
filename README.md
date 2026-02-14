@@ -1,7 +1,7 @@
 # ULTRASONIC-ARDUINO
 
 ---
-Author: Pranjal Prabhat 👨‍🔬
+Author: Anonymus 👨‍🔬
 ---
 
 ## What's Diffrent 👀
